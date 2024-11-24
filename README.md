@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mathematics Portfolio</title>
+  <title> Mathematics Portfolio </title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to My Mathematics Portfolio</h1>
+    <h1>Jeremy Hewitt - Mathematics Portfolio</h1>
     <nav>
       <a href="#about">About Me</a>
       <a href="#projects">Projects</a>
